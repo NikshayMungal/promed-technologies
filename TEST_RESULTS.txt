@@ -1,0 +1,5 @@
+Validation: 30 September 2026
+13 automated tests passed.
+Covers CSV validation, monetary validation, ageing totals, split receipts, over-allocation, customer mismatch, formula-safe exports, unchanged invoice balances, SQLite persistence, and Streamlit page navigation.
+Test runtime: Python 3.12, Streamlit 1.64.0, SQLAlchemy 2.1.1.
+MySQL live connection and Sage integration were not tested. No live Sage connector is included.

@@ -1,0 +1,4 @@
+customer_id,customer_name,email,credit_terms_days,credit_limit
+C001,Demo Coastal Clinic,accounts@example.com,30,20000.00
+C002,Demo Valley Hospital,finance@example.com,30,50000.00
+C003,Demo North Practice,billing@example.com,30,10000.00

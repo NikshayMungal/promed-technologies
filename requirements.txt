@@ -1,0 +1,5 @@
+streamlit>=1.53,<2
+pandas>=2.2,<3
+SQLAlchemy>=2.0,<3
+PyMySQL[rsa]>=1.1,<2
+python-dotenv>=1.0,<2

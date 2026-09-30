@@ -1,0 +1,3 @@
+receipt_id,invoice_id,amount
+PAY002,INV003,12000.00
+PAY002,INV004,1000.00
